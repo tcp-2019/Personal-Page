@@ -14,5 +14,5 @@ When | Where | What
 ## My hobby
 Mountain climbing.  "Reaching the top, then you can hold all mountains in a single glance"
 ## Contact me
-Emial: ** tiancaiping2000@126.com **
-Telephone: ** 18800172176 **
+Emial: **tiancaiping2000@126.com**
+Telephone: **18800172176**
