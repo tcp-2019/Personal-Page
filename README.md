@@ -2,7 +2,7 @@
 ## Welcome
 If you want to know me. Welcome to my personal page. Simple but not simple.
 ## Short about me
-My name is caiping Tian. I'm a female. I‘m from Shanxi province. I'm 30，older than other students. I have a baby for five months, may be this is a characteristic you can remind me.
+My name is caiping Tian. I'm a female. I‘m from Shanxi province. I'm 30，older than other students. I have a baby  five months, may be this is a characteristic you can remind me.
 ## My experience
 When | Where | What
 --- | --- | ---
