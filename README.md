@@ -12,7 +12,7 @@ When | Where | What
 2019-now | Tsing hua University | Student
 
 ## My picture
-![alt text](https://github.com/tcp-2019/Personal-Page/settings)
+(![alt text](https://tva1.sinaimg.cn/large/006y8mN6ly1g74m0paslfj30zk0qogoh.jpg))
 ## My hobby
 Mountain climbing.  "Reaching the top, then you can hold all mountains in a single glance"
 ## Contact me
